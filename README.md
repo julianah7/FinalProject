@@ -12,4 +12,4 @@ The data was collected through RapidMiner process. The [twitter](https://twitter
 [our process](https://github.com/julianah7/FinalProject/blob/master/final.xml) 
 <img src="https://github.com/julianah7/FinalProject/blob/master/Process%20of%20Twitter.png" width="500">
 
-[Link to visualization of cluster result keywords via Tableau (https://public.tableau.com/profile/juliana6328#!/vizhome/FinalProjectWorkbook_3/Dashboard1?publish=yes)
+[Link to Tableau Public Visualization] (https://public.tableau.com/profile/juliana6328#!/vizhome/FinalProjectWorkbook_3/Dashboard1)
