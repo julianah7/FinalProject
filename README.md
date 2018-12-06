@@ -17,6 +17,9 @@ By Enabling Special attributes, data is saved in a column that shows the top key
 <img src="https://github.com/julianah7/FinalProject/blob/master/ProcessofDocument.png" width="700">
 The tweets after being converting the collected into rapid miner and setting the attribute to only capture the text of the converted tweet document, this will give the ability to filter out the unwanted attributes that will not be significant or necessary in my research. I coverted the text to vectors, convert all letters to lower case, and eliminate letters that are too long, and filter stop words in order to produce the most concise visually appealing classification as possible.
 
+<img src="https://github.com/julianah7/FinalProject/blob/master/stepbysteprocess.png" width="700">
+Step by step process in Github that allowed me to enable special attributes in order to visualize keywords in their respective clusters. The aggregate feature allows you to preform this task on your attributes by identifying the top key words in each cluster. Then to transpose the selected data and select the role of ID in order to assign each to a specific cluster.The twitter data along with the cluster is then saved to the selected excel files along with the keywords and clusters. 
+
                                                                                                 
 
 [Link to Tableau Public Visualization](https://public.tableau.com/profile/juliana6328#!/vizhome/FinalProjectWorkbook_3/Dashboard1)
