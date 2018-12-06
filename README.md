@@ -12,9 +12,10 @@ The data was collected through RapidMiner process. The [twitter](https://twitter
 [Process](https://github.com/julianah7/FinalProject/blob/master/final.xml) 
 
 <img src="https://github.com/julianah7/FinalProject/blob/master/Process%20of%20Twitter.png" width="500">
-### *By Enabling Special attributes, data is saved in a column that shows the top keywords of each cluster. Through this   process I am able to use K-Means Clustering to modify the amount of clusters that I want to visualize along with associated keywords in each cluster that could be paralell to one another.* 
+###By Enabling Special attributes, data is saved in a column that shows the top keywords of each cluster. Through this   process I am able to use K-Means Clustering to modify the amount of clusters that I want to visualize along with associated keywords in each cluster that could be paralell to one another.
 
 <img src="https://github.com/julianah7/FinalProject/blob/master/ProcessofDocument.png" width="700">
+
                                                                                                 
 
 [Link to Tableau Public Visualization](https://public.tableau.com/profile/juliana6328#!/vizhome/FinalProjectWorkbook_3/Dashboard1)
