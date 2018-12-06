@@ -5,11 +5,11 @@ The problem the machiene learning task was expected to solve was to discover wha
 ## How Data was collected
 
 The data was collected through RapidMiner process. The [twitter](https://twitter.com) access token feature was utilized in order to collect real-time tweets that were relevant to my selected topic. By establishing a new connection and querying the word "JMU", over 150 keywords collected that were assigned to six different clusters. By converting the collected tweets into RapidMiner and setting the attribute to only capture special attributes, the ability to filter out unwanted ones was made possible. 
-<img src="https://github.com/julianah7/FinalProject/blob/master/twittertoken.PNG" width="500">
+<img src="https://github.com/julianah7/FinalProject/blob/master/twittertoken.PNG" width="700">
 
 
 
 [our process](https://github.com/julianah7/FinalProject/blob/master/final.xml) 
 <img src="https://github.com/julianah7/FinalProject/blob/master/Process%20of%20Twitter.png" width="500">
 
-Link to visualization of cluster result keywords [https://public.tableau.com/profile/juliana6328#!/vizhome/FinalProjectWorkbook_3/Dashboard1?publish=yes]
+[Link to visualization of cluster result keywords via Tableau (https://public.tableau.com/profile/juliana6328#!/vizhome/FinalProjectWorkbook_3/Dashboard1?publish=yes)
