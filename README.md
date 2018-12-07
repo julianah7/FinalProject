@@ -27,12 +27,16 @@ Visualization result of the amount of clusters collected from the k-means cluste
 ## Justification of Models and Parameters                                                                                          
 Keywords and their clusters were then exported to tableau in a CVS file, the words along with their clusters were created in a dashboard, by chaning the attribute to a decimal value to see the weight of the keywords to their cluster. Word Clouds were then formulated in order to visualize the significant words in each cluster. By duplicating the sheet and substituting the average TF-IDF of the 1st cluster with the others, I was be able to create a visualization for all the clusters. After a dashboard was created for each sheet, I uploaded this to a story in Tableau in order to visualize and compare each cluster popular key words against one another. Also, by enabling sheet on the story, gives the visualization of querying the popularity in words among clusters for viewers. The quality of the data will be true due to the fact that it is obtained directly through twitter and is people’s opinion rather than missing values or labels. The interactive link below allows readers to visualize and interact with the data directly among different clusters. 
 
+## Tableau Interactive Visualization
 [Link to Tableau Public Visualization](https://public.tableau.com/profile/juliana6328#!/vizhome/FinalProjectWorkbook_3/Dashboard1)
+This link allows users to interact with the data in real time, querying specific keywords to see how many clusters the words were relative to. In this link you can see from the left side legend that many of the words can be inferred to be associated with Football and the sudden annoucement.
 
 ## Conclusion and Limitations
-Although this does give the opinion of many students in real time, and most of the 150 keywords found were associated with the announcement of Coach Houstons departure, the true keywords and ability to classify just based off these clusters is not enough. In order to improve this research and method the ability to perform some sort of social network analysis in a side by side comparison with the cluster analysis could potentially solidy some of the keywords and findings, along with visualizing who was tweeted the most and what the tweets were about in order to justify my findings. 
+Although this does give the opinion of many students in real time, and most of the 150 keywords found were associated with the announcement of Coach Houstons departure, the true keywords and ability to classify just based off these clusters is not enough. Because the keywords do not show who they are tweet to or about, having to researcha and inference played a big part in the justification of the findings. In order to improve this research and method the ability to perform some sort of social network analysis in a side by side comparison with the cluster analysis could potentially solidy some of the keywords and findings, along with visualizing who was tweeted the most and what the tweets were about in order to justify my findings. 
 
 ## External Resources for more Info:
 [Info on Coach Houston Departure](https://www.witn.com/content/news/SOURCES--Kirkpatrick-new-offensive-coordinator-at-ECU-501984331.html)
+[Link to Social Network Tool That Could Improve / Further Findings](https://gephi.org/)
+
 
 
