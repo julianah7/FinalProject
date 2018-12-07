@@ -1,4 +1,4 @@
-# JMU Keywords K-Means Clustering Problem 
+# **JMU Keywords K-Means Clustering Problem** 
 
 The problem the machiene learning task was expected to solve was to discover what keywords were associated with the query of JMU in Twitter Social Media through Rapid Miners K-Means Clustering. Due to the recent announcement of Coach Mike Houston leaving JMUs Football team I was curious to see if many clusters would contain keywords that had to do with his departure. Through the keywords analzyed in the clusters I would be able to discover if more positivity or negativity surrounded this decision. My research problem will be a classification problem. I plan to utilize k-means clustering in order to solve this clustering problem. 
 
