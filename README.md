@@ -2,7 +2,7 @@
 
 The problem the machiene learning task was expected to solve was to discover what keywords were associated with the query of JMU in Twitter Social Media through Rapid Miners K-Means Clustering. Due to the recent announcement of Coach Mike Houston leaving JMUs Football team I was curious to see if many clusters would contain keywords that had to do with his departure. Through the keywords analzyed in the clusters I would be able to discover if more positivity or negativity surrounded this decision. My research problem will be a classification problem. I plan to utilize k-means clustering in order to solve this clustering problem. 
 
-## How Data was collected
+## How Data Was Collected
 
 The data was collected through RapidMiner process. The [twitter](https://twitter.com) access token feature was utilized in order to collect real-time tweets that were relevant to my selected topic. By establishing a new connection and querying the word "JMU", over 150 keywords collected that were assigned to six different clusters. By converting the collected tweets into RapidMiner and setting the attribute to only capture special attributes, the ability to filter out unwanted ones was made possible. 
 <img src="https://github.com/julianah7/FinalProject/blob/master/twittertoken.PNG" width="700">
@@ -34,7 +34,7 @@ This link allows users to interact with the data in real time, querying specific
 ## Conclusion and Limitations
 Although this does give the opinion of many students in real time, and most of the 150 keywords found were associated with the announcement of Coach Houstons departure, the true keywords and ability to classify just based off these clusters is not enough. Because the keywords do not show who they are tweet to or about, having to researcha and inference played a big part in the justification of the findings. In order to improve this research and method the ability to perform some sort of social network analysis in a side by side comparison with the cluster analysis could potentially solidy some of the keywords and findings, along with visualizing who was tweeted the most and what the tweets were about in order to justify my findings. 
 
-## External Resources for more Info:
+## *External Resources for more Info:*
 1. [Info on Coach Houston Departure](https://www.witn.com/content/news/SOURCES--Kirkpatrick-new-offensive-coordinator-at-ECU-501984331.html)
 2. [Link to Social Network Tool That Could Improve / Further Findings](https://gephi.org/)
 
