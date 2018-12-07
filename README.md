@@ -1,4 +1,4 @@
-:beers: # **Juliana Holloway IA 480 Machiene Learning Final Project** :beers:
+# :beers: **Juliana Holloway IA 480 Machiene Learning Final Project** :beers:
 
 ## **JMU Keywords K-Means Clustering Problem** 
 
