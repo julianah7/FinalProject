@@ -33,6 +33,6 @@ Keywords and their clusters were then exported to tableau in a CVS file, the wor
 Although this does give the opinion of many students in real time, and most of the 150 keywords found were associated with the announcement of Coach Houstons departure, the true keywords and ability to classify just based off these clusters is not enough. In order to improve this research and method the ability to perform some sort of social network analysis in a side by side comparison with the cluster analysis could potentially solidy some of the keywords and findings, along with visualizing who was tweeted the most and what the tweets were about in order to justify my findings. 
 
 ## External Resources for more Info:
-[Info on Coach Houstin Departure](https://www.witn.com/content/news/SOURCES--Kirkpatrick-new-offensive-coordinator-at-ECU-501984331.html)
+[Info on Coach Houston Departure](https://www.witn.com/content/news/SOURCES--Kirkpatrick-new-offensive-coordinator-at-ECU-501984331.html)
 
 
