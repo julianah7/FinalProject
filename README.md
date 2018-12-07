@@ -39,7 +39,7 @@ Although this does give the opinion of many students in real time, and most of t
 
 ## *External Resources for more Info:* :pencil2:
 1. [Info on Coach Houston Departure](https://www.witn.com/content/news/SOURCES--Kirkpatrick-new-offensive-coordinator-at-ECU-501984331.html) :football:
-2. [Link to Social Network Tool That Could Improve / Further Findings](https://gephi.org/) :chart_with_downwards_trend:
+2. [Link to Social Network Tool That Could Improve / Further Findings](https://gephi.org/) :wrench:
 
 
 
