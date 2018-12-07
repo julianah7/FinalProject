@@ -31,7 +31,7 @@ Keywords and their clusters were then exported to tableau in a CVS file, the wor
 
 ## **Tableau Interactive Visualization**
 [Link to Tableau Public Visualization](https://public.tableau.com/profile/juliana6328#!/vizhome/FinalProjectWorkbook_3/Dashboard1)
-This link allows users to interact with the data in real time, querying specific keywords to see how many clusters the words were relative to. In this link you can see from the left side legend that many of the words can be inferred to be associated with Football and the sudden annoucement.
+- This link allows users to interact with the data in real time, querying specific keywords to see how many clusters the words were relative to. In this link you can see from the left side legend that many of the words can be inferred to be associated with Football and the sudden annoucement.
 
 ## **Conclusion and Limitations**
 Although this does give the opinion of many students in real time, and most of the 150 keywords found were associated with the announcement of Coach Houstons departure, the true keywords and ability to classify just based off these clusters is not enough. Because the keywords do not show who they are tweet to or about, having to researcha and inference played a big part in the justification of the findings. In order to improve this research and method the ability to perform some sort of social network analysis in a side by side comparison with the cluster analysis could potentially solidy some of the keywords and findings, along with visualizing who was tweeted the most and what the tweets were about in order to justify my findings. 
