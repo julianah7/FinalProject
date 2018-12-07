@@ -21,7 +21,7 @@ The tweets after being converting the collected into rapid miner and setting the
 Step by step process in Github that allowed me to enable special attributes in order to visualize keywords in their respective clusters. The aggregate feature allows you to preform this task on your attributes by identifying the top key words in each cluster. Then to transpose the selected data and select the role of ID in order to assign each to a specific cluster.The twitter data along with the cluster is then saved to the selected excel files along with the keywords and clusters. 
 
 ## Results of Clusters 
-<img src=https://github.com/julianah7/FinalProject/blob/master/amountofclusters.png" width="700">
+<img src="https://github.com/julianah7/FinalProject/blob/master/amountofclusters.png" width="700">
 Visualization result of the amount of clusters collected from the k-means clustering analysis. As you can see, Cluster_5 collected the most keywords out of all 6 clusters that were fomulated. 
 
                                                                                                 
