@@ -1,4 +1,4 @@
-# **Juliana Holloway IA 480 Machiene Learning Final Project**
+# **Juliana Holloway IA 480 Machine Learning Final Project**
 # :beers::beers::beers::beers:
 
 ## **JMU Keywords K-Means Clustering Problem** 
