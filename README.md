@@ -6,7 +6,7 @@ The problem the machine learning task was expected to solve was to discover what
 
 ## **How Data Was Collected**
 
-The data was collected through RapidMiner process. The [twitter](https://twitter.com) access token feature was utilized in order to collect real-time tweets that were relevant to my selected topic. By establishing a new connection and querying the word "JMU", over 150 keywords collected that were assigned to six different clusters. By converting the collected tweets into RapidMiner and setting the attribute to only capture special attributes, the ability to filter out unwanted ones was made possible. 
+The data was collected through RapidMiner process. The [twitter](https://twitter.com) access token feature was utilized in order to collect real-time tweets that were relevant to my selected topic. By establishing a new connection and querying the word "JMU", over 150 keywords were collected that were assigned to six different clusters. By converting the collected tweets into RapidMiner and setting the attribute to only capture special attributes, the ability to filter out unwanted ones was made possible. 
 <img src="https://github.com/julianah7/FinalProject/blob/master/twittertoken.PNG" width="700">
 
 
